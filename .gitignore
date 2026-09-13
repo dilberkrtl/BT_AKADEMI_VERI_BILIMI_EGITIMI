@@ -1,0 +1,30 @@
+# Git
+.git/
+
+# Python bytecode/cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter temporary checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+myenv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env
+.env.*
